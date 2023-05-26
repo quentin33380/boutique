@@ -1,7 +1,3 @@
-import { add_product } from "../actions/add";
-import { remove_product } from "../actions/remove";
-import { update_product } from "../actions/update";
-
 const initialstate = {
     products: [],
 };
